@@ -2,6 +2,8 @@
 
 Second project for Udacity's Self-Driving Car Nanodegree.
 
+The goal was to train a Convolutional Neural Network to classify 43 different German Traffic Signs.
+
 Met spec on first submission with one minor change.
 
 Select quotes from the review:
